@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Plugins>
+	<plugin
+	id="" 
+	nameResId="@string/tags_plugin"
+	description="Tags Plugin"
+    pluginAssetName="vim.vrz"
+    pluginAssetMd5="9debea0215f6ae7d2c83814107e06ae7"
+	index="1"/>
+</Plugins>
