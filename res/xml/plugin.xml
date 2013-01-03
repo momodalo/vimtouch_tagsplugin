@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Plugins>
 	<plugin
-	id="" 
+	id="234b4acbc6c0465e2a6da7f7d0cf964d1628dbed" 
 	nameResId="@string/tags_plugin"
 	description="Tags Plugin"
     pluginAssetName="vim.vrz"
