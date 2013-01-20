@@ -172,10 +172,10 @@ if !exists('loaded_taglist')
         let Tlist_Display_Tag_Scope = 1
     endif
 
-    " Use single left mouse click to jump to a tag. By default this is disabled.
-    " Only double click using the mouse will be processed.
+    " Use single left mouse click to jump to a tag. By default this is enbled.
+    " If disabled, only double click using the mouse will be processed.
     if !exists('Tlist_Use_SingleClick')
-        let Tlist_Use_SingleClick = 0
+        let Tlist_Use_SingleClick = 1
     endif
 
     " Control whether additional help is displayed as part of the taglist or
